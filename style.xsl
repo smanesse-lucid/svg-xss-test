@@ -15,7 +15,7 @@
   <xsl:template match="/svg:svg">
     <svg width="10cm" height="5cm"
        xmlns="http://www.w3.org/2000/svg">
-    <rect x="2cm" y="1cm" width="6cm" height="3cm" fill="red" onclick="alert(1)"/>
+    <animate onbegin="console.log('xslt external animate')" id="thing" dur="1s"></animate>
   </svg>
   </xsl:template>
 </xsl:stylesheet>
