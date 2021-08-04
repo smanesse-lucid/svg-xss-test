@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle id="myCircle" cx="100" cy="100" r="50" stroke="blue" onclick="console.log(1)"/>
+<animate onbegin="console.log('2: animate onbegin')" id="thing"  dur="1s"></animate>
+</svg>
