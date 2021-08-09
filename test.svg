@@ -6,4 +6,4 @@
       document.getElementById("foo").setAttribute("fill", "blue");
    // ]]>
   </script>
-</svg></svg>
+</svg>
