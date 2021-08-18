@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <circle style="fill:gray;stroke:#010101;stroke-width:1;" cx="250" cy="250" r="245" onclick="alert('xss')">
+    </circle>
+    <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em" onclick="alert('xss')">Click me!!</text>
+</svg>
