@@ -1,0 +1,5 @@
+<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" height="10000px" width="20000px">
+  <!-- Simple rectangle -->
+  <rect width="200" height="100" />
+
+</svg>
